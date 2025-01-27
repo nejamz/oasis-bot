@@ -1,5 +1,11 @@
 # OASIS AI BETA CLI VERSION
 
+# Proxy can buy Here
+
+### Buy Proxies READ CAREFULLY BEFORE BUY!!!
+- : 
+1. [https://app.proxies.fo](https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc)
+
 ![banner](image-1.png)
 AI inference powered by distributed compute
 
